@@ -49,7 +49,7 @@ double change;
 double price;
 double payment;
 double totalPayment = 0;
-double balance ;
+double balance;
 
 
 scan = new Scanner(System.in);

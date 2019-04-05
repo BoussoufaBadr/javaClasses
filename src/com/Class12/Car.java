@@ -7,6 +7,11 @@ public class Car {
 	String make, model, color;
 	int door, wheels;
 	
+	
+	
+	
+	
+	
 	public static void main(String[] args) {
 		
 		// ClassName variableName=new ClassName();
@@ -19,6 +24,7 @@ public class Car {
 		car1.door=4;
 		car1.wheels=4;
 		System.out.println("Car " +car1.make+ " has " +car1.wheels + " wheels");
+		
 		// define behavior
 		car1.drive();
 		car1.reverse();
@@ -35,6 +41,7 @@ public class Car {
 		car2.door=4;
 		car2.wheels=4;
 		System.out.println("My car is "+car2.color+" "+car2.make);
+		
 		//define behavior
 		car2.drive();
 		car2.reverse();
@@ -51,11 +58,4 @@ public class Car {
 		System.out.println("Car can stop");	
 }
 	
-
-
-
-
-
-
-
 }
