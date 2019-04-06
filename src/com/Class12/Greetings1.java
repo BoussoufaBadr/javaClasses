@@ -6,7 +6,7 @@ public class Greetings1 {
 public static void main(String[] args) {
 		
 		Greetings1 obj=new Greetings1();
-		obj.askHowAreYou("Omer");
+		obj.askHowAreYou("omer");
 	}
 	
 	void askHowAreYou(String name) {

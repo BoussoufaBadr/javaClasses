@@ -12,6 +12,8 @@ public class Car {
 	
 	
 	
+	
+	
 	public static void main(String[] args) {
 		
 		// ClassName variableName=new ClassName();
@@ -47,15 +49,15 @@ public class Car {
 		car2.reverse();
 		car2.stop();
 	}
-	
 	void drive() {
-	System.out.println("Car can drive");	
+		System.out.println("Car can drive");	
+		}
+		void reverse() {
+			System.out.println("Car can reverse");	
 	}
-	void reverse() {
-		System.out.println("Car can reverse");	
-}
-	void stop() {
-		System.out.println("Car can stop");	
-}
+		void stop() {
+			System.out.println("Car can stop");	
+	}
+	
 	
 }
