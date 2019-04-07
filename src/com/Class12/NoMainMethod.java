@@ -23,6 +23,7 @@ public class NoMainMethod {
 			
 			obj.hello();//we calling a method hello
 			obj.bye();
+		
 		}
 		
 		void howAreYou() {

@@ -21,13 +21,13 @@ System.out.println("car color is " + main1.carColor + " and " + " car model is "
 	   //car object
 	Main main2=new Main();	
 
-	main2.carColor="White";
-	  main2.carModelYear=2018;
+	   main2.carColor="White";
+	   main2.carModelYear=2018;
 	   main2.carName="Toyota" ;
 System.out.println("car color is " + main2.carColor + " and " + " car model is " + main2.carModelYear + " and " + " car name is " + main2.carName);
 	
-	   main2.drive();
-	   main2.reverse();
+	    main2.drive();
+	    main2.reverse();
 	    main2.stop();
 			
 	  }	
