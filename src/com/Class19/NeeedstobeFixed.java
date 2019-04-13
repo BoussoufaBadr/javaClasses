@@ -3,7 +3,7 @@
 //    make the name variable static
 //
 //    Create another class called Application
-//    from this application class create 3 diffrent instances/objects of it and print the properties and functions/methods
+//    from this application class create 3 different instances/objects of it and print the properties and functions/methods
 
    /* String breed = “Husky”;
     int weight = 100;
@@ -55,7 +55,7 @@ note: very important:
       we use the the name of the class 1 .name of the method :
       
       anim.canBark();  or
-      Animal.canBaark if it is static.
+      Animal.canBark if it is static.
       
       
         
