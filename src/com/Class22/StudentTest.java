@@ -1,0 +1,17 @@
+package com.Class22;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+		
+		Student student1=new Student("Amina", 90, 85, 47);
+		student1.getAverage();
+		
+		
+		
+		Student student2=new Student("john", 90, 85, 47);
+		student2.getAverage();
+		
+		
+	}
+}

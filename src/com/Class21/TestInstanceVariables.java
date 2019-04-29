@@ -7,7 +7,7 @@ public class TestInstanceVariables {
 		
 		InstanceVariables obj=new InstanceVariables();
 		
-		System.out.println(obj.name);
+		//System.out.println(obj.name);
 	}
 
 }
