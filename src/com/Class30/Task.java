@@ -25,7 +25,7 @@ Find the size of your arrayList and print all values from that
 		System.out.println(names.isEmpty());
 		System.out.println(names.contains("joe"));
 		System.out.println(names.size());
-	 for(String b:names) {
+	    for(String b:names) {
 		 System.out.println(b);
 	 }
 		

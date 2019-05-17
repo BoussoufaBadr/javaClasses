@@ -15,9 +15,4 @@ public class Test {
 		System.out.println(TakesShreenshot.fileExtension);
 	}
 }
-// different way
-/*
- * 
- * 
- */
 

@@ -1,5 +1,7 @@
 package Pack1;
 
+import java.util.HashSet;
+
 public class MainClass {
 	
 	public static void main(String[] args)
@@ -9,9 +11,26 @@ public class MainClass {
         System.out.println(x.i);
 
         x.methodOfX();
-    }
+        
+        
+        
 
-}
+        H            
+           
+          }
+
+        } 
+        
+        
+        
+        
+        
+        
+        
+        
+    
+
+
 	
 	
 	
